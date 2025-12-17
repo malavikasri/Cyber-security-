@@ -1,0 +1,5 @@
+{
+  "name": "CyberShield Password Auditor",
+  "description": "A professional-grade password strength analyzer and brute-force simulator. Features real-time entropy calculation, attack time estimation, and AI-powered security consulting.",
+  "requestFramePermissions": []
+}
